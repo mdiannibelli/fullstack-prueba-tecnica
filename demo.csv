@@ -1,0 +1,11 @@
+id,nombre,edad,departamento,email
+1,Juan Pérez,25,Marketing,juan.perez@example.com
+2,Maria García,30,Finanzas,maria.garcia@example.com
+3,Carlos López,28,Desarrollo,carlos.lopez@example.com
+4,Ana Fernández,35,Recursos Humanos,ana.fernandez@example.com
+5,Luis Martínez,40,IT,luis.martinez@example.com
+6,Laura Sánchez,22,Atención al Cliente,laura.sanchez@example.com
+7,Pedro Gómez,32,Logística,pedro.gomez@example.com
+8,Carmen Díaz,27,Legal,carmen.diaz@example.com
+9,Andrés Herrera,29,Operaciones,andres.herrera@example.com
+10,Elena Ruiz,33,Ventas,elena.ruiz@example.com
