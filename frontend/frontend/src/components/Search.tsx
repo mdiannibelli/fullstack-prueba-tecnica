@@ -21,6 +21,10 @@ export const Search = ({initialData}: Props) => {
         window.history.pushState({}, '', `?q=${searchValue}`)
     }, [searchValue])
 
+    useEffect(() => {
+        const res =
+    }, [])
+
   return (
     <div>
         <h2>Search</h2>
